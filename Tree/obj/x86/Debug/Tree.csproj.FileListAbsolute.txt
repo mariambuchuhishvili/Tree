@@ -1,0 +1,8 @@
+C:\4 курс\ХХХ\Tree\Tree\bin\Debug\Tree.exe
+C:\4 курс\ХХХ\Tree\Tree\bin\Debug\Tree.pdb
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.Form1.resources
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.Properties.Resources.resources
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.csproj.GenerateResource.Cache
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.exe
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.pdb
+C:\4 курс\ХХХ\Tree\Tree\obj\x86\Debug\Tree.csprojResolveAssemblyReference.cache
